@@ -1,0 +1,106 @@
+* {
+margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.container {
+    
+display: inline-block;
+}
+
+.text {
+    font-size: 15px;
+    letter-spacing: 2px;
+    font-family: monospace;
+    border-right: 2px solid white;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: typing 3s steps(34), cursor .4s step-end 16 alternate;
+}
+
+
+.text2 {
+    color: white;
+    font-size: 15px;
+    letter-spacing: 2px;
+    font-family: monospace;
+     border-right: 2px solid white;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+ animation: typing 16s steps(189), clr 0.1s forwards, cursor .4s step-end 48 alternate;
+      animation-delay: 7s;
+}
+
+
+.text3 {
+    color: white;
+    font-size: 15px;
+    letter-spacing: 2px;
+    font-family: monospace;
+     border-right: 2px solid white;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+ animation: typing 16s steps(185), clr 0.1s forwards, cursor .4s step-end 46 alternate;
+      animation-delay: 26s;
+}
+
+.text4 {
+    color: white;
+    font-size: 15px;
+    letter-spacing: 2px;
+    font-family: monospace;
+     border-right: 2px solid white;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+ animation: typing 15s steps(164), clr 0.1s forwards, cursor .4s step-end 45 alternate;
+      animation-delay: 45s;
+}
+
+.text5 {
+    color: white;
+    font-size: 15px;
+    letter-spacing: 2px;
+    font-family: monospace;
+     border-right: 2px solid white;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+ animation: typing 18s steps(200), clr 0.1s forwards, cursor .4s step-end 49 alternate;
+      animation-delay: 64s;
+}
+
+.text6 {
+    color: white;
+    font-size: 15px;
+    letter-spacing: 2px;
+    font-family: monospace;
+     border-right: 2px solid white;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+ animation: typing 50s steps(568), clr 0.1s forwards, cursor .4s step-end infinite alternate;
+      animation-delay: 84s;
+}
+
+
+
+
+@keyframes cursor {
+    50% {border-color: black}
+}
+
+@keyframes typing {
+    from {width: 0}
+}
+
+@keyframes clr {
+    to {color: black;}
+}
