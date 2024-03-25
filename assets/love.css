@@ -12,9 +12,9 @@ margin: 10px;
 display: inline-block;
 }
 
-.text {
+.text1 {
     color: white;
-    font-size: 21px;
+    font-size: 30px;
     letter-spacing: 2px;
     font-family: monospace;
     border-right: 2px solid white;
@@ -27,7 +27,7 @@ display: inline-block;
 
 .text2 {
     color: white;
-    font-size: 20px;
+    font-size: 30px;
     letter-spacing: 2px;
     font-family: monospace;
      border-right: 2px solid white;
@@ -41,7 +41,7 @@ display: inline-block;
 
 .text3 {
     color: white;
-    font-size: 20px;
+    font-size: 30px;
     letter-spacing: 2px;
     font-family: monospace;
      border-right: 2px solid white;
@@ -54,7 +54,7 @@ display: inline-block;
 
 .text4 {
     color: white;
-    font-size: 20px;
+    font-size: 30px;
     letter-spacing: 2px;
     font-family: monospace;
      border-right: 2px solid white;
@@ -67,7 +67,7 @@ display: inline-block;
 
 .text5 {
     color: white;
-    font-size: 20px;
+    font-size: 30px;
     letter-spacing: 2px;
     font-family: monospace;
      border-right: 2px solid white;
@@ -80,7 +80,7 @@ display: inline-block;
 
 .text6 {
     color: white;
-    font-size: 20px;
+    font-size: 30px;
     letter-spacing: 2px;
     font-family: monospace;
      border-right: 2px solid white;
